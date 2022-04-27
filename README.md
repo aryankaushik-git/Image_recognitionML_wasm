@@ -1,6 +1,6 @@
 # Image Identifier App using Tensorflow | WasmEdge | Dapr | Docker
 
-![1](https://github.com/aryankaushik-git/outreachy/blob/main/aryankaushik/media/imgid%20(1).gif)
+![1](https://github.com/aryankaushik-git/Image_recognitionML_wasm/blob/main/imgid.gif)
 
 
 #### Small brief about technologies Used:
